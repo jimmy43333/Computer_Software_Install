@@ -1,12 +1,20 @@
 # Ubuntu
 ### 14.04
-* vim  
+* vim
 * .vimrc
 * git
 * firefox
 * vlcplayer
 * python3
 * filezilla
+### 18.04
+* git
+* vim
+* python3
+* net-tools
+* openssh-server
+* minicom
+* docker.io
 
 # Mac
 * IINA
@@ -22,7 +30,7 @@
 * Path Intellisense
 * Code Spell Checker
 * Todo Hightlight / Todo Tree
-* indent-rainbow
+* Indent-rainbow
 * Excel Viewer
 * vscode-pdf
 * Power mode
@@ -35,8 +43,6 @@
 * auto close tag
 * html snippets
 * Vue snippets
-* Material Icon Theme
-* **Vue Language Features**
 
 ### Python
 * Python
