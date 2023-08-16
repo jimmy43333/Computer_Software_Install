@@ -18,6 +18,7 @@
 
 # Mac
 * IINA
+https://iina.io/download/
 * AnyDesk
 * Mounty
 * FileZilla
