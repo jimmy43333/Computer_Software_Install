@@ -15,6 +15,23 @@
 * openssh-server
 * minicom
 * docker.io
+### 22.04
+* git
+* vim
+* python3
+* python3-pip
+* python3-tk
+* net-tools
+* openssh-server
+* minicom
+* docker.io
+* sshpass
+* curl
+* node
+* npm 
+* nvm
+* docker-compose
+
 
 # Mac
 * IINA
@@ -48,4 +65,8 @@ https://iina.io/download/
 ### Python
 * Python
 * Python snippets
+
+### Proxy Setting
+Modify the username and password in proxy.conf and proxy_setting.sh
+
 

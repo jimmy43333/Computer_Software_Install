@@ -1,0 +1,4 @@
+{
+	"insecure-registries":["bu11-sw-nexus01:8082"],
+	"exec-opts": ["native.cgroupdriver=systemd"]
+}
